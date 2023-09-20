@@ -2,13 +2,13 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/br-flag.png" height="13"> Русский</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Español</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/bl-flag.png" height="13"> Русский</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/es-flag.png" height="13"> Español</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently work as a React Native Developer at [Archlife Industries Software](https://archlife.org/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;React Native Developer at [Archlife Industries Software](https://archlife.org/) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and .\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
