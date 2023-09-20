@@ -6,7 +6,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;About Mee
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Rocket Lawyer](https://www.rocketlawyer.com/) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
