@@ -32,7 +32,8 @@
 
 
 <p align="center">
-  <a href="https://www.padverbny.com"><img src="https://img.shields.io/badge/-padverbny-black?style=for-the-badge&logo=gitlab"
+  <a href="https://www.padverbny.com"><img src="/images/logoMax.png
+"
 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:m.padverbny@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100002332168527"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
