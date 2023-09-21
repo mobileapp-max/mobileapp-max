@@ -22,9 +22,9 @@
 <span style="font-family: monoton">     Me</span>
 
 
-<span style="font-family: monoton">•</span> React Native Developer at [Archlife Industries Software](https://archlife.org/) \
+<span style="font-family: monoton">•</span> React Native Developer at [Archlife Industries Software](https://archlife.org/) 
 <!-- <span style="font-family: monoton">•</span> From Belarus but \ -->
-<span style="font-family: monoton">•</span> Passionate about problem solving and .\
+<!-- <span style="font-family: monoton">•</span> Passionate about problem solving. -->
 <!-- <span style="font-family: monoton">•</span> Currently researching software architecture, inertial sensors, and sensor fusion.\ -->
 <!-- <span style="font-family: monoton">•</span> Coding since 2004 with 10+ years of experience in enterprise wide software development.\ -->
 <!-- <span style="font-family: monoton">•</span> Live in Miami. -->
@@ -47,7 +47,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Tech Stack</b></summary>
   <br/>
 
 
