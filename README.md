@@ -19,7 +19,7 @@
 </table>
 
 
-<span>`Hi, I'm Max` :hugs:</span>
+<span>`Hi, I'm Max :hugs:`</span>
 
 
 
@@ -42,7 +42,7 @@
 </p>
 
 <hr/>
-  :computer: &nbsp;Tech Stack
+  <summary><b>:computer: &nbsp;Tech Stack</b></summary>
   <br/>
 
 
@@ -76,16 +76,6 @@
 ![NodeJS](https://img.shields.io/badge/NODE.JS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 
 <!-- </details> -->
-
-
-<!-- 
-<details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-  <br/>
-
-</details> -->
-
-
 <hr/>
 
 
