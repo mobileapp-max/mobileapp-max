@@ -22,8 +22,8 @@
 <font style="font-family: monoton">About</span><span style="font-family: monoton">     Me</font>
 
 <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
-<h1><span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
-</h1>
+<div><span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+</div>
 
 
 
