@@ -70,6 +70,17 @@
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![Canva](https://img.shields.io/badge/-CANVA-white?logo=CANVA
+)&nbsp;
+![Figma](https://img.shields.io/badge/-FIGMA-white?logo=figma
+)&nbsp;
+![Jest](https://img.shields.io/badge/-JEST-96737D?logo=jest
+)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-white?logo=Tailwind%20CSS
+)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-purple?logo=Redux
+)&nbsp;
+
 </details>
 
 
