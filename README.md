@@ -18,8 +18,10 @@
  </td></tr>
 </table>
 
-<span style="font-family: monoton">About</span>
-<span style="font-family: monoton">     Me</span>
+<pre><code><span style="font-family: monoton">About</span><span style="font-family: monoton">     Me</span></code></pre>
+<font style="font-family: monoton">About</span><span style="font-family: monoton">     Me</font>
+
+
 
 
 <span style="font-family: monoton">•</span> React Native Developer at [Archlife Industries Software](https://archlife.org/) 
