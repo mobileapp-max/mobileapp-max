@@ -19,7 +19,7 @@
 </table>
 
 
-<span>`Hi, I'm Max`</span>
+<span>`Hi, I'm Max` :hugs:</span>
 
 
 
@@ -42,7 +42,7 @@
 </p>
 
 <hr/>
-  <summary><b>:computer: &nbsp;Tech Stack</b></summary>
+  :computer: &nbsp;Tech Stack
   <br/>
 
 
