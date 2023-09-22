@@ -19,7 +19,7 @@
 </table>
 
 
-<span>`Hi, I'm Max :hugs:`</span>
+<span>`Hi, I'm Max`</span>
 
 
 
