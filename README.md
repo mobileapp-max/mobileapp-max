@@ -46,7 +46,7 @@
   <br/>
 
 
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-4db3b4?logo=Tailwind%20CSS&logoColor=white
+![TailwindCSS](https://img.shields.io/badge/-TAILWIND_CSS-4db3b4?logo=Tailwind%20CSS&logoColor=white
 )&nbsp;
 ![React](https://img.shields.io/badge/-REACT-4aacf7?logo=React&logoColor=white
 )&nbsp;
@@ -56,7 +56,7 @@
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-purple?logo=Redux
+![Redux](https://img.shields.io/badge/-REDUX-purple?logo=Redux
 )&nbsp;
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/-JEST-853957?logo=jest
