@@ -19,12 +19,7 @@
 </table>
 
 
-<span> <font style="font-family: monoton">`Hi, I'm Max`}</span>
-
-
-
-
-
+<span>`Hi, I'm Max`</span>
 
 <span style="font-family: monoton">•</span> React Native Developer at [Archlife Industries Software](https://archlife.org/) 
 <!-- <span style="font-family: monoton">•</span> From Belarus but \ -->
